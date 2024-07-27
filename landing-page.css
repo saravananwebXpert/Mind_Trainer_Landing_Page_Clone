@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+}
+section {
+  height: 675px;
+  background-image: url(./patient.jpg);
+  background-size: cover;
+}
+#logo {
+  font-size: xx-large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: inline-block;
+  font-weight: bolder;
+}
+#trainer {
+  color: rgba(23, 57, 226, 0.936);
+}
+#name {
+  line-height: 1px;
+  margin-left: 100px;
+  margin-right: 300px;
+  margin-top: 30px;
+}
+nav ul li {
+  display: inline-block;
+}
+.title {
+  margin-left: 40px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+nav ul li a {
+  color: black;
+  text-decoration: none;
+}
+nav {
+  background-color: rgba(226, 234, 237, 0.426);
+  height: 80px;
+}
+ul {
+  margin: 0;
+}
+#logoname {
+  margin-left: 102px;
+  font-size: 18px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1px;
+}
+#content {
+  margin-left: 100px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+}
+h1 {
+  font-size: 60px;
+  margin-bottom: 18px;
+}
+button {
+  background-color: rgba(23, 57, 226, 0.936);
+  border: 1px solid rgba(23, 57, 226, 0.936);
+  padding: 13px;
+}
+button a {
+  color: white;
+  text-decoration: none;
+}
+nav a:hover {
+  color: rgba(23, 57, 226, 0.936);
+}
